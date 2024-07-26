@@ -1,7 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body {
-    @apply font-serif;
+a {
+  color:blue;
+  text-decoration: underline;
 }
